@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669994487 source:d:\c++\raycastingascii\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+
